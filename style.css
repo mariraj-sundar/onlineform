@@ -1,0 +1,22 @@
+label{
+    text-align: center;
+    color:rgb(39, 16, 210);
+    padding: 20px;
+} 
+h2{
+    background-color: rgb(35, 196, 199);
+    text-align: center;
+}
+body{
+    text-align: center;
+    border: 5px solid goldenrod;
+    font-size:200%;
+    padding: 10px;;
+    font-family: Impact, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif,'Arial Narrow Bold', sans-serif;
+    background-color:rgb(28, 191, 142);
+}
+.blink{
+    animation: blinker 1.5s linear infinite;
+    color: rgb(183, 33, 183);
+    font-family: sans-serif;
+}
