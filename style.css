@@ -14,4 +14,5 @@ body{
     padding:10px;
     font-family:Impact,Impact,Haettenschweiler,'Arial Narrow Bold',sans-serif,'Arial Narrow Bold',sans-serif;
     background-color:rgb(28, 191, 142);
+    border-spacing:infinite;
 }
