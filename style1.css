@@ -14,7 +14,7 @@ body{
     font-size:189%;
     padding: 10px;
     font-family: Impact, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif,'Arial Narrow Bold', sans-serif;
-    background:url('land.jpg');
+    background:url("land.jpg");
     background-repeat:no-repeat;
     background-attachment: fixed;
     background-size:cover;
