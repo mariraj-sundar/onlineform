@@ -1,0 +1,47 @@
+label{
+    text-align: center;
+    color:rgb(39, 16, 210);
+    padding: 20px;
+} 
+h2{
+    background-color:transparent;
+    text-align: center;
+}
+body{
+    text-align:leftcenter;
+    align-items: center;
+    border: 5px solid transparent;
+    font-size:189%;
+    padding: 10px;
+    font-family: Impact, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif,'Arial Narrow Bold', sans-serif;
+    background:url('D:/land2.jpg');
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    width:auto;
+    height:auto;
+}
+label:hover{
+ width: 45px;
+ height:20px;
+ text-shadow:5px 4px black;
+}
+input:hover{
+    width:auto;
+    height:auto;
+    background-color: lightseagreen;
+}
+textarea:hover{
+    width:auto;
+    height:auto;
+    background-color: lightseagreen;
+}
+select:hover{
+    background-color: lightseagreen;
+}
+button a:hover{
+    color:black;
+}
+.data:hover{
+    background-color:transparent;
+}
